@@ -1,0 +1,21 @@
+{
+  "configID": "AUTO-DEVTEST",
+  "map": [
+    {
+      "id": 1,
+      "name": "Luna",
+      "type": "Scooty",
+      "meta": {
+        "lastUpdated": "today"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Honda",
+      "type": "Motor",
+      "meta": {
+        "lastUpdated": "yesterday"
+      }
+    }
+  ]
+}
